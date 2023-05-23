@@ -5,10 +5,8 @@ This is a simple BMI (Body Mass Index) calculator web application built with Exp
 ## Screenshots
 
 ![Screenshot 1](ss1.png)
-Description of the screenshot.
 
 ![Screenshot 2](ss2.png)
-Description of the screenshot.
 
 
 ## Description
